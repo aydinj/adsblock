@@ -1,58 +1,58 @@
-1000click.ir
-adnegah.net
-ads2.tweetna.ir
-ads.4ml.ir
-ads.aranesh.ir
-ads.baadesaba.ir
-ads.lll5.ir
-ads.rade.ir
-ads.rzb.ir
-ads.sahandar.com
-adtube.ir
-akhbarrasmi.com
-alef.ir
-androidads.ir
-anetwork.ir
-atighgasht.com
-backority.ir
-balootads.ir
-bannerclick.lll1.ir
-cdn.asriran.com
-cdn.iranweb.click
-click.baburnadir.com
-clickyab.com
-dariconline.ir
-deema.agency
-dserver.adad.ir
-emalls.ir
-foxpush.net
-irandigitalads.com
-iranjo.cf
-iranweb.click
-irjo.ga
-js.foxpush.com
-kaprila.com
-kimexa.com
-magnetadservices.com
-mediaad.org
-netbina.com
-notificationclick.ir
-p30rank.ir
-poparya.com
-popfa.ir
-popupha.com
-popupplus.ir
-radar.bayan.ir
-rzb.ir
-sabavision.com
-sigmaad.com
-ssads.net
-ssl.vatanclick.ir
-t3l.ir
-tapsell.ir
-up.video-learn.net
-vista.ir
-yasell.biz
-yektanet.com
-zarpop.com
-mediaad.org
+0.0.0.0 1000click.ir
+0.0.0.0 adnegah.net
+0.0.0.0 ads2.tweetna.ir
+0.0.0.0 ads.4ml.ir
+0.0.0.0 ads.aranesh.ir
+0.0.0.0 ads.baadesaba.ir
+0.0.0.0 ads.lll5.ir
+0.0.0.0 ads.rade.ir
+0.0.0.0 ads.rzb.ir
+0.0.0.0 ads.sahandar.com
+0.0.0.0 adtube.ir
+0.0.0.0 akhbarrasmi.com
+0.0.0.0 alef.ir
+0.0.0.0 androidads.ir
+0.0.0.0 anetwork.ir
+0.0.0.0 atighgasht.com
+0.0.0.0 backority.ir
+0.0.0.0 balootads.ir
+0.0.0.0 bannerclick.lll1.ir
+0.0.0.0 cdn.asriran.com
+0.0.0.0 cdn.iranweb.click
+0.0.0.0 click.baburnadir.com
+0.0.0.0 clickyab.com
+0.0.0.0 dariconline.ir
+0.0.0.0 deema.agency
+0.0.0.0 dserver.adad.ir
+0.0.0.0 emalls.ir
+0.0.0.0 foxpush.net
+0.0.0.0 irandigitalads.com
+0.0.0.0 iranjo.cf
+0.0.0.0 iranweb.click
+0.0.0.0 irjo.ga
+0.0.0.0 js.foxpush.com
+0.0.0.0 kaprila.com
+0.0.0.0 kimexa.com
+0.0.0.0 magnetadservices.com
+0.0.0.0 mediaad.org
+0.0.0.0 netbina.com
+0.0.0.0 notificationclick.ir
+0.0.0.0 p30rank.ir
+0.0.0.0 poparya.com
+0.0.0.0 popfa.ir
+0.0.0.0 popupha.com
+0.0.0.0 popupplus.ir
+0.0.0.0 radar.bayan.ir
+0.0.0.0 rzb.ir
+0.0.0.0 sabavision.com
+0.0.0.0 sigmaad.com
+0.0.0.0 ssads.net
+0.0.0.0 ssl.vatanclick.ir
+0.0.0.0 t3l.ir
+0.0.0.0 tapsell.ir
+0.0.0.0 up.video-learn.net
+0.0.0.0 vista.ir
+0.0.0.0 yasell.biz
+0.0.0.0 yektanet.com
+0.0.0.0 zarpop.com
+0.0.0.0 mediaad.org
