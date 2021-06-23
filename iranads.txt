@@ -56,3 +56,4 @@
 127.0.0.1 yektanet.com
 127.0.0.1 zarpop.com
 127.0.0.1 mediaad.org
+127.0.0.1 api.mediaad.org
