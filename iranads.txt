@@ -57,3 +57,5 @@
 127.0.0.1 zarpop.com
 127.0.0.1 mediaad.org
 127.0.0.1 api.mediaad.org
+127.0.0.1 ads.telewebion.com
+127.0.0.1 analytics.telewebion.com.
