@@ -1,59 +1,67 @@
-127.0.0.1 1000click.ir
-127.0.0.1 adnegah.net
-127.0.0.1 ads2.tweetna.ir
-127.0.0.1 ads.4ml.ir
-127.0.0.1 ads.aranesh.ir
-127.0.0.1 ads.baadesaba.ir
-127.0.0.1 ads.lll5.ir
-127.0.0.1 ads.rade.ir
-127.0.0.1 ads.rzb.ir
-127.0.0.1 ads.sahandar.com
-127.0.0.1 adtube.ir
-127.0.0.1 akhbarrasmi.com
-127.0.0.1 alef.ir
-127.0.0.1 androidads.ir
-127.0.0.1 anetwork.ir
-127.0.0.1 atighgasht.com
-127.0.0.1 backority.ir
-127.0.0.1 balootads.ir
-127.0.0.1 bannerclick.lll1.ir
-127.0.0.1 cdn.asriran.com
-127.0.0.1 cdn.iranweb.click
-127.0.0.1 click.baburnadir.com
-127.0.0.1 clickyab.com
-127.0.0.1 dariconline.ir
-127.0.0.1 deema.agency
-127.0.0.1 dserver.adad.ir
-127.0.0.1 emalls.ir
-127.0.0.1 foxpush.net
-127.0.0.1 irandigitalads.com
-127.0.0.1 iranjo.cf
-127.0.0.1 iranweb.click
-127.0.0.1 irjo.ga
-127.0.0.1 js.foxpush.com
-127.0.0.1 kaprila.com
-127.0.0.1 kimexa.com
-127.0.0.1 magnetadservices.com
-127.0.0.1 mediaad.org
-127.0.0.1 netbina.com
-127.0.0.1 notificationclick.ir
-127.0.0.1 p30rank.ir
-127.0.0.1 poparya.com
-127.0.0.1 popfa.ir
-127.0.0.1 popupha.com
-127.0.0.1 popupplus.ir
-127.0.0.1 radar.bayan.ir
-127.0.0.1 rzb.ir
-127.0.0.1 sabavision.com
-127.0.0.1 sigmaad.com
-127.0.0.1 ssads.net
-127.0.0.1 ssl.vatanclick.ir
-127.0.0.1 t3l.ir
-127.0.0.1 tapsell.ir
-127.0.0.1 up.video-learn.net
-127.0.0.1 vista.ir
-127.0.0.1 yasell.biz
-127.0.0.1 yektanet.com
-127.0.0.1 zarpop.com
-127.0.0.1 mediaad.org
-127.0.0.1 api.mediaad.org
+1000click.ir
+adnegah.net
+ads2.tweetna.ir
+ads.4ml.ir
+ads.aranesh.ir
+ads.baadesaba.ir
+ads.lll5.ir
+ads.rade.ir
+ads.rzb.ir
+ads.sahandar.com
+adtube.ir
+akhbarrasmi.com
+alef.ir
+androidads.ir
+anetwork.ir
+atighgasht.com
+backority.ir
+balootads.ir
+bannerclick.lll1.ir
+cdn.asriran.com
+cdn.iranweb.click
+click.baburnadir.com
+clickyab.com
+dariconline.ir
+deema.agency
+dserver.adad.ir
+emalls.ir
+foxpush.net
+irandigitalads.com
+iranjo.cf
+iranweb.click
+irjo.ga
+js.foxpush.com
+kaprila.com
+kimexa.com
+magnetadservices.com
+mediaad.org
+netbina.com
+notificationclick.ir
+p30rank.ir
+poparya.com
+popfa.ir
+popupha.com
+popupplus.ir
+radar.bayan.ir
+rzb.ir
+sabavision.com
+sigmaad.com
+ssads.net
+ssl.vatanclick.ir
+t3l.ir
+tapsell.ir
+up.video-learn.net
+vista.ir
+yasell.biz
+yektanet.com
+zarpop.com
+mediaad.org
+api.mediaad.org
+
+
+
+# [RadioJavan]
+flury-ycpi.gycpi.b.yahoodns.net
+outcome-ssp.supersonicads.com
+cdn-lb.vungle.com
+events.ads.vungle.com
